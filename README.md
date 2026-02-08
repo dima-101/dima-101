@@ -1,5 +1,5 @@
 <div align="center">
-# Дима Кравченко  
+# Дмитрий Кравченко  
 **Создаю ИИ-ботов и сайты, которые экономят деньги и увеличивают продажи**
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dima-101&show_icons=true&theme=radical)](https://github.com/dima-101/dima-101)
